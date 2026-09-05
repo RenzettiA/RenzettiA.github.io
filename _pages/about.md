@@ -10,4 +10,3 @@ redirect_from:
 
 I am a **Research Economist** at the **Bank of England**.
 
-Here you can explore my research, publications, and current projects.
