@@ -7,4 +7,6 @@ date: 2015-10-01
 slidesurl: 
 paperurl: 
 
+**Co-authors:** Massimiliano Marcellino and Tommaso Tornese
+
 ---
