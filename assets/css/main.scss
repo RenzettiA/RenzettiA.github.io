@@ -58,3 +58,12 @@ body {
   border-color: #333333 !important;
   color: #ffffff !important;
 }
+
+/* Colore dei titoli delle pubblicazioni */
+.archive__item-title a {
+  color: #222222 !important;
+}
+
+.archive__item-title a:hover {
+  color: #000000 !important;
+}
