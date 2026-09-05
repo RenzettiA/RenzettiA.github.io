@@ -8,5 +8,4 @@ slidesurl:
 paperurl: 
 
 **Co-authors:** Massimiliano Marcellino and Tommaso Tornese
-
 ---
