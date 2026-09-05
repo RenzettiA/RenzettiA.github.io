@@ -3,6 +3,7 @@ title: "Labour at risk"
 collection: publications
 category: manuscripts
 permalink: /publication/labour-at-risk
+coauthors: "Vasco Botelho and Claudia Foroni"
 date: 2024-01-01
 venue: "European Economic Review"
 paperurl:
