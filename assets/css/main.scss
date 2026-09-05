@@ -37,3 +37,12 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Hide the footer */
+.page__footer {
+  display: none !important;
+}
+
+body {
+  padding-bottom: 0 !important;
+}
