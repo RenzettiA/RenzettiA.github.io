@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV (PDF)](https://drive.google.com/file/d/1_qBGg3A8s-hcHU6tgAynG2jlOqJmvtTq/view?usp=drive_link){: .btn .btn--primary target="_blank" rel="noopener" }
-
 ## Work Experience
 
 - **Research Economist**  
@@ -39,4 +37,8 @@ redirect_from:
 
 - **B.Sc. in Economics**, 2017  
   *University of Rome Tor Vergata*
+
+
+[Download my CV (PDF)](https://drive.google.com/file/d/1_qBGg3A8s-hcHU6tgAynG2jlOqJmvtTq/view?usp=drive_link){: .btn .btn--black target="_blank" rel="noopener" }
+
 ```
