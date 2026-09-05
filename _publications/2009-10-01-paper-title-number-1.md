@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/labour-at-risk
 date: 2024-01-01
 venue: "European Economic Review"
-paperurl: "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2840~51f5d398c1.en.pdf"
+paperurl:
 slidesurl:
 bibtexurl:
 ---
