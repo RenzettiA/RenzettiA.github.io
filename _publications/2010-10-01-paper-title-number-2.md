@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/theory-coherent-shrinkage-tvp-vars
 date: 2026-01-01
 venue: "Journal of Business & Economic Statistics"
-paperurl: "https://arxiv.org/pdf/2311.11858"
+paperurl:
 slidesurl:
 bibtexurl:
 ---
