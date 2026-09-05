@@ -1,19 +1,16 @@
 ---
-title: "Labour at risk"
+title: "Theory Coherent Shrinkage of Time-Varying Parameters in VARs"
 collection: publications
 category: manuscripts
-permalink: /publication/labour-at-risk
-excerpt: "We develop a Bayesian VAR with stochastic volatility and time-varying skewness to measure labour-market tail risk and stagflation risk in the euro area and the United States."
-date: 2024-01-01
-venue: "European Economic Review"
-paperurl: "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2840~51f5d398c1.en.pdf"
+permalink: /publication/theory-coherent-shrinkage-tvp-vars
+excerpt: "This paper introduces a theory-coherent shrinkage prior that incorporates information from economic models into time-varying parameter VARs."
+date: 2026-01-01
+venue: "Journal of Business & Economic Statistics"
+paperurl: "https://arxiv.org/pdf/2311.11858"
 slidesurl:
 bibtexurl:
-citation: 'Vasco Botelho, Claudia Foroni, and <strong>Andrea Renzetti</strong>. &quot;Labour at risk.&quot; <i>European Economic Review</i>.'
+citation: '<strong>Andrea Renzetti</strong> (2026). &quot;Theory Coherent Shrinkage of Time-Varying Parameters in VARs.&quot; <i>Journal of Business &amp; Economic Statistics</i>, 44(2), 547&ndash;559.'
 ---
 
-**Co-authors:** Vasco Botelho and Claudia Foroni
-
-[Published version](https://www.sciencedirect.com/science/article/abs/pii/S0014292124001788)  
-[ECB Working Paper No. 2840](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2840~51f5d398c1.en.pdf)
-
+[Published version](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2542475)  
+[Open-access version (arXiv)](https://arxiv.org/pdf/2311.11858)
