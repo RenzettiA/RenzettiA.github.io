@@ -1,3 +1,4 @@
+```markdown
 ---
 layout: archive
 title: "CV"
@@ -9,24 +10,32 @@ redirect_from:
 
 {% include base_path %}
 
+## Work Experience
 
-Work experience
-======
-* September 2025: Research Economist
-  * Bank of England, Monetary Analysis
-    
-* September 2023 - September 2025: Post-Doctoral Research Fellow
-  * Bocconi University
+- **Research Economist**  
+  *Bank of England — Monetary Analysis*  
+  September 2025–Present
 
-* June 2022 - December 2022:  Research Trainee
-  * European Central Bank
+- **Postdoctoral Research Fellow**  
+  *Bocconi University*  
+  September 2023–September 2025
 
- 
-Education
-======
-* Ph.D. in Economics, University of Bologna, 2024
-  Visiting Scholar University of Pennsylvania, January 2023 - April 2023
-* M.S.c in Economics, University of Roma Tor Vergata, 2019
-* B.S.c in Economics, University of Roma Tor Vergata, 2017
-  
+- **Research Trainee**  
+  *European Central Bank*  
+  June 2022–December 2022
 
+## Education
+
+- **Ph.D. in Economics**, 2024  
+  *University of Bologna*
+
+  **Visiting Scholar**  
+  *University of Pennsylvania*  
+  January 2023–April 2023
+
+- **M.Sc. in Economics**, 2019  
+  *University of Rome Tor Vergata*
+
+- **B.Sc. in Economics**, 2017  
+  *University of Rome Tor Vergata*
+```
