@@ -41,4 +41,3 @@ redirect_from:
 
 [Download my CV (PDF)](https://drive.google.com/file/d/1_qBGg3A8s-hcHU6tgAynG2jlOqJmvtTq/view?usp=drive_link){: .btn .btn--black target="_blank" rel="noopener" }
 
-```
