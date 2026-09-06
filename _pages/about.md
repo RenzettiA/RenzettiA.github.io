@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a **Research Economist** at the **Bank of England**. Previously I was Post-doctoral Research Fellow at Bocconi University. 
+I am a **Research Economist** at the **Bank of England**. Previously I was post-doctoral Research Fellow at Bocconi University. 
 
 My research interests are in empirical macroeconomics and econometrics.
 
