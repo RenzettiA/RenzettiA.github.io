@@ -10,6 +10,9 @@ redirect_from:
 
 I am a **Research Economist** at the **Bank of England**.
 
+My research interests are in empirical macroeconomics and econometrics, with a particular focus on Bayesian methods.
+
+
 ## Research
 
 {% assign sorted_publications = site.publications | sort: "date" | reverse %}
