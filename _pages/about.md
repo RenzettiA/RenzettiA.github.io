@@ -20,17 +20,7 @@ My research interests are in empirical macroeconomics and econometrics.
   {% include archive-single.html %}
 {% endfor %}
 
-## Policy Articles
-
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## Curriculum Vitae
 
 [Download my CV](https://drive.google.com/file/d/1_qBGg3A8s-hcHU6tgAynG2jlOqJmvtTq/view?usp=drive_link){: .btn .btn--primary }
 
-
-
-
-My research focuses on **empirical macroeconomics** and **econometrics**, with a particular emphasis on **Bayesian methods**. This website presents my research, publications, and ongoing projects.
